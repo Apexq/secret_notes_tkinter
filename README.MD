@@ -2,7 +2,7 @@
 
 A simple desktop application for storing your encrypted notes securely.
 
-![Application Interface](UI_image_img.png)
+![Application Interface](UI_image_one.png)
 
 ## Features
 
